@@ -1,0 +1,10 @@
+{
+    "backgroundColor": "#ffffff",
+    "isPerspective": true,
+    "lineColor": "42a5f5",
+    "lineWidth": 1.0,
+    "pointSize": 10.0,
+    "showVertices": false,
+    "solidLines": true,
+    "vertexColor": "#ff0000"
+}
